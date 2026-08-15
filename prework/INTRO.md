@@ -130,26 +130,28 @@ SSL/TLSを使っていない、平文のサイトの場合、それが本物か�
 [4]  ソフトバンク株式会社. "ソフトバンク". https://www.softbank.jp/, (参照 2026-08-15).  
 [5]  Amazon Web Services, Inc. "AWS". https://aws.amazon.com/jp/, (参照 2026-08-15).  
 [6]  Microsoft Corporation. "Microsoft Azure". https://azure.microsoft.com/ja-jp/, (参照 2026-08-15).  
-[7]  Google LLC. "Google Cloud". https://cloud.google.com/, (参照 2026-08-15).  
-[8]  Google LLC. "Google". https://about.google/, (参照 2026-08-15).  
-[9]  Meta Platforms, Inc. "Meta". https://about.meta.com/, (参照 2026-08-15).  
-[10] Netflix, Inc. "Netflix". https://www.netflix.com/, (参照 2026-08-15).  
-[11] ByteDance Ltd. "TikTok". https://www.tiktok.com/, (参照 2026-08-15).  
-[12] NTTドコモビジネス株式会社. "NTTドコモビジネス". https://www.ntt.com/, (参照 2026-08-15).  
-[13] Lumen Technologies, Inc. "Lumen". https://www.lumen.com/, (参照 2026-08-15).  
-[14] BBIX株式会社. "BBIX株式会社". https://www.bbix.net/, (参照 2026-08-15).  
-[15] インターネットマルチフィード株式会社. "JPNAP". https://www.jpnap.net/, (参照 2026-08-15).  
-[16] 株式会社JPIX. "株式会社JPIX". https://www.jpix.ad.jp/, (参照 2026-08-15).  
-[17] Akamai Technologies, Inc. "Akamai". https://www.akamai.com/ja, (参照 2026-08-15).  
-[18] Cloudflare, Inc. "Cloudflare". https://www.cloudflare.com/, (参照 2026-08-15).  
-[19] Fastly, Inc. "Fastly". https://www.fastly.com/, (参照 2026-08-15).  
-[20] 日本電信電話株式会社. "NTT". https://group.ntt/jp/, (参照 2026-08-15).  
-[21] ソニーネットワークコミュニケーションズ株式会社. "So-net". https://www.sonynetwork.co.jp/, (参照 2026-08-15).  
-[22] Space Exploration Technologies Corp. "Starlink". https://www.starlink.com/, (参照 2026-08-15).  
-[23] JCOM株式会社. "J:COM". https://www.jcom.co.jp/, (参照 2026-08-15).  
-[24] WIDEプロジェクト. "WIDE Project". https://www.wide.ad.jp/, (参照 2026-08-15).  
-[25] 国立情報学研究所. "学術情報ネットワーク SINET6". https://www.sinet.ad.jp/, (参照 2026-08-15).  
-[26] Internet Assigned Numbers Authority. "IANA". https://www.iana.org/, (参照 2026-08-15).  
-[27] Asia Pacific Network Information Centre. "APNIC". https://www.apnic.net/, (参照 2026-08-15).  
-[28] 一般社団法人日本ネットワークインフォメーションセンター. "JPNIC". https://www.nic.ad.jp/, (参照 2026-08-15).  
+[7]  Alibaba Cloud. "Alibaba Cloud". https://www.alibabacloud.com/ja, (参照 2026-08-15).  
+[8]  Google LLC. "Google Cloud". https://cloud.google.com/, (参照 2026-08-15).  
+[9]  さくらインターネット株式会社. "さくらインターネット". https://www.sakura.ad.jp/, (参照 2026-08-15).  
+[10] Google LLC. "Google". https://about.google/, (参照 2026-08-15).  
+[11] Meta Platforms, Inc. "Meta". https://about.meta.com/, (参照 2026-08-15).  
+[12] Netflix, Inc. "Netflix". https://www.netflix.com/, (参照 2026-08-15).  
+[13] ByteDance Ltd. "TikTok". https://www.tiktok.com/, (参照 2026-08-15).  
+[14] NTTドコモビジネス株式会社. "NTTドコモビジネス". https://www.ntt.com/, (参照 2026-08-15).  
+[15] Lumen Technologies, Inc. "Lumen". https://www.lumen.com/, (参照 2026-08-15).  
+[16] BBIX株式会社. "BBIX株式会社". https://www.bbix.net/, (参照 2026-08-15).  
+[17] インターネットマルチフィード株式会社. "JPNAP". https://www.jpnap.net/, (参照 2026-08-15).  
+[18] 株式会社JPIX. "株式会社JPIX". https://www.jpix.ad.jp/, (参照 2026-08-15).  
+[19] Akamai Technologies, Inc. "Akamai". https://www.akamai.com/ja, (参照 2026-08-15).  
+[20] Cloudflare, Inc. "Cloudflare". https://www.cloudflare.com/, (参照 2026-08-15).  
+[21] Fastly, Inc. "Fastly". https://www.fastly.com/, (参照 2026-08-15).  
+[22] 日本電信電話株式会社. "NTT". https://group.ntt/jp/, (参照 2026-08-15).  
+[23] ソニーネットワークコミュニケーションズ株式会社. "So-net". https://www.sonynetwork.co.jp/, (参照 2026-08-15).  
+[24] Space Exploration Technologies Corp. "Starlink". https://www.starlink.com/, (参照 2026-08-15).  
+[25] JCOM株式会社. "J:COM". https://www.jcom.co.jp/, (参照 2026-08-15).  
+[26] WIDEプロジェクト. "WIDE Project". https://www.wide.ad.jp/, (参照 2026-08-15).  
+[27] 国立情報学研究所. "学術情報ネットワーク SINET6". https://www.sinet.ad.jp/, (参照 2026-08-15).  
+[28] Internet Assigned Numbers Authority. "IANA". https://www.iana.org/, (参照 2026-08-15).  
+[29] Asia Pacific Network Information Centre. "APNIC". https://www.apnic.net/, (参照 2026-08-15).  
+[30] 一般社団法人日本ネットワークインフォメーションセンター. "JPNIC". https://www.nic.ad.jp/, (参照 2026-08-15).
 
